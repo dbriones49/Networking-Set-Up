@@ -47,13 +47,39 @@ Once completed, the green arrows confirm the configurations are correct.
 ## PC configuration
 
 We begin opening up PC1 and going to IP configuration under desktop. We enter the IP address of the PC, enter the subnet mask, and ensure the default gateway's IP address matches that of the switch. From here, we repeat the configuration process for the 
-remainder of the PCs.
+remainder of the PCs. It is important to configure the PCs tied to the 2nd swicth, to reflect matching subnets and Gateways.
 
 ![image](https://github.com/user-attachments/assets/7965098f-cfc5-40c3-9c2e-eb3ecf9e0195)
 
 
 
 ![image](https://github.com/user-attachments/assets/4d73c1e3-9992-4de6-a862-aaf3d49846e6)
+
+
+## Testing the connections
+
+By using the Realtime feature and by opening up PC's terminal, we can attempt to ping PC 1and PC 3. The terminal reflects the communication attempts were successful.
+
+
+
+![image](https://github.com/user-attachments/assets/5f52f3a1-33c3-491f-a45b-ee148c3380dd)
+
+
+# Additional devices
+
+From here we can simple repeat the process to configure the third switch and last two PCs. 
+
+
+![image](https://github.com/user-attachments/assets/adb15aad-c454-4b56-87c4-a092aec06ee0)
+
+
+We complete a final ping to last two PCS, and confirm the connections are successful.
+
+![image](https://github.com/user-attachments/assets/9a4df231-9f5c-4c78-8669-d90a898a9303)
+
+
+
+![image](https://github.com/user-attachments/assets/b4ecf30b-c59b-4385-a1b1-d8121e3c1309)
 
 
 
