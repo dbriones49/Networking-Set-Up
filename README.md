@@ -13,14 +13,14 @@ Understanding how to configure network devices in a real-world environment is cr
 
 ## Design
 
-I am chosing the 2911 Router, as it allows for 3 different GB connections. Switches were added and the PCs were re labled to reflect a sequential order. Copper straight throw cable will be used to connect the PCs to the switch, using Fastethernet0. Gigehhernet will be used to connect the switches to the router.
+I am choosing the 2911 Router, as it allows for 3 different GB connections. Switches were added and the PCs, were re-labled to reflect a sequential order. Copper straight throw cable will be used to connect the PCs to the switch, using Fastethernet0. Gigethernet will be used to connect the switches to the router.
 
 
 
 ![image](https://github.com/user-attachments/assets/ccd6e97e-9dd3-4d1e-b25d-fb5688b62405)
 
 
-## Router -Swithc Configuration
+## Router -Switch Configuration
 
 Settings in the router and switches now need to be configured.
 
@@ -47,7 +47,7 @@ Once completed, the green arrows confirm the configurations are correct.
 ## PC configuration
 
 We begin opening up PC1 and going to IP configuration under desktop. We enter the IP address of the PC, enter the subnet mask, and ensure the default gateway's IP address matches that of the switch. From here, we repeat the configuration process for the 
-remainder of the PCs. It is important to configure the PCs tied to the 2nd swicth, to reflect matching subnets and Gateways.
+remainder of the PCs. It is important to configure the PCs tied to the 2nd switch, to reflect matching subnets and Gateways.
 
 ![image](https://github.com/user-attachments/assets/7965098f-cfc5-40c3-9c2e-eb3ecf9e0195)
 
