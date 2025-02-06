@@ -62,6 +62,12 @@ By using the Realtime feature and by opening up PC's terminal, we can attempt to
 
 
 
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/5f52f3a1-33c3-491f-a45b-ee148c3380dd)
 
 
@@ -70,7 +76,21 @@ By using the Realtime feature and by opening up PC's terminal, we can attempt to
 From here we can simple repeat the process to configure the third switch and last two PCs. 
 
 
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/adb15aad-c454-4b56-87c4-a092aec06ee0)
+
+
+
+
+
+
+
+
 
 
 We complete a final ping to last two PCS, and confirm the connections are successful.
