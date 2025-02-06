@@ -20,7 +20,7 @@ I am chosing the 2911 Router, as it allows for 3 different GB connections. Switc
 ![image](https://github.com/user-attachments/assets/ccd6e97e-9dd3-4d1e-b25d-fb5688b62405)
 
 
-## Configuration
+## Router -Swithc Configuration
 
 Settings in the router and switches now need to be configured.
 
@@ -43,6 +43,17 @@ Once completed, the green arrows confirm the configurations are correct.
 
 ![image](https://github.com/user-attachments/assets/4773be5f-1ed1-47ad-9237-09471c6a7b5b)
 
+
+## PC configuration
+
+We begin opening up PC1 and going to IP configuration under desktop. We enter the IP address of the PC, enter the subnet mask, and ensure the default gateway's IP address matches that of the switch. From here, we repeat the configuration process for the 
+remainder of the PCs.
+
+![image](https://github.com/user-attachments/assets/7965098f-cfc5-40c3-9c2e-eb3ecf9e0195)
+
+
+
+![image](https://github.com/user-attachments/assets/4d73c1e3-9992-4de6-a862-aaf3d49846e6)
 
 
 
